@@ -9,5 +9,6 @@ A Simple Todo app using php with database!
 * html
 * css
 * js
+* ajax
 * php
 * mysql
